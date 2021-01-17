@@ -1,0 +1,12 @@
+// {
+//     "python.pythonPath": "/Users/evantang/.local/share/virtualenvs/backend--4xflvs0/bin/python",
+//     "team.showWelcomeMessage": false,
+//     "editor.formatOnSave": true,
+//     "python.linting.pep8Enabled": true,
+//     "python.linting.pylintPath": "pylint",
+//     "python.linting.pylintArgs": [
+//         "--load-plugins",
+//         "pylint_django"
+//     ],
+//     "python.linting.pylintEnabled": true
+// }
